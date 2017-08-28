@@ -8,5 +8,5 @@ Confirm the setting with the URL below. It should be set to "false".
 about:config?filter=media.peerconnection.enabled  
   
 Available for Firefox
-&nbsp;  
+
 [![Mozilla Add-Ons](https://raw.githubusercontent.com/loganmarchione/disable-webrtc/master/icon_firefox_amo.png)](https://addons.mozilla.org/en-US/firefox/addon/disable-webrtc/)
