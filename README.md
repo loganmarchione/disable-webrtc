@@ -7,6 +7,6 @@ https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/privacy/network
 Confirm the setting with the URL below. It should be set to "false".  
 about:config?filter=media.peerconnection.enabled  
   
-Available for Firefox
+## Available for Firefox
 
 [![Mozilla Add-Ons](https://raw.githubusercontent.com/loganmarchione/disable-webrtc/master/icon_firefox_amo.png)](https://addons.mozilla.org/en-US/firefox/addon/disable-webrtc/)
