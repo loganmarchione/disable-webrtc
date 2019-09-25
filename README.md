@@ -1,3 +1,5 @@
+# This extension is no longer maintained.
+
 # Disable WebRTC
 WebExtension that disables WebRTC  
   
